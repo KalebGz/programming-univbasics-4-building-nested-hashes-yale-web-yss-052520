@@ -19,7 +19,7 @@ base_hash[railroads] = {
   rent_in_dollars: {},
   names: {}
 }
-
+new_hash
 end
 
 def monopoly_with_third_tier
